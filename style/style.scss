@@ -15,6 +15,7 @@ body {
     background-color: $dark-cyan;
     font-family: $main-font;
     display: flex;
+    flex-direction: column;
     justify-content: center;
     align-items: center;
     @media (min-width: 48rem) {
